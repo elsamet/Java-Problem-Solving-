@@ -7,6 +7,7 @@ public class BubbleSorting {
 	 */
 	
 	//Time Complexity :O(n^2)
+	//Space Complexity :O(1)
 	
 	public int[] sortArray(int a[],int N){
 		
